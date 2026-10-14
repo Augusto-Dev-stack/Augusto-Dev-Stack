@@ -1,14 +1,14 @@
-# Olá, eu sou o Matheus Prado
+# Olá, eu sou o Matheus Prado 👋
 
-### Sobre mim
-- 🔭 Atualmente trabalhando/focado em **Em uma pagina full-stack**
-- 🌱 Aprendendo **Mysql e JavaScript**
-- 💼 Aberto a oportunidades como **Desenvolvedor Full-Stack junior/ Desenvolvedor Back-end junior**
-- ⚡ Curiosidade: **Tenho muita facilidade em quakquer coisa que envolve tecnologia**
+### 👨‍💻 Sobre mim
+- 🔭 Atualmente trabalhando/focado em **um projeto full-stack**
+- 🌱 Aprendendo **MySQL e JavaScript**
+- 💼 Aberto a oportunidades como **Desenvolvedor Full-Stack júnior / Desenvolvedor Back-end júnior**
+- ⚡ Curiosidade: **Tenho muita facilidade em qualquer coisa que envolva tecnologia**
 
 ---
 
-### Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,4 +28,4 @@
 
 ### 📬 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-prado-ab3b0440a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Email:xoxbox69@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoxbox69@gmail.com)
