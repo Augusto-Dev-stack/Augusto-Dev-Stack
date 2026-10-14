@@ -1,10 +1,10 @@
-# Olá, eu sou o [Matheus Prado.] 
+# Olá, eu sou o Matheus Prado
 
 ### Sobre mim
-- 🔭 Atualmente trabalhando/focado em **[Em uma pagina full-stack]**
-- 🌱 Aprendendo **[Mysql]**
-- 💼 Aberto a oportunidades como **[Desenvolvedor Full-Stack junior/ Desenvolvedor Back-end junior]**
-- ⚡ Curiosidade: **[Tenho muita facilidade em quakquer coisa que envolve tecnologia]**
+- 🔭 Atualmente trabalhando/focado em **Em uma pagina full-stack**
+- 🌱 Aprendendo **Mysql e JavaScript**
+- 💼 Aberto a oportunidades como **Desenvolvedor Full-Stack junior/ Desenvolvedor Back-end junior**
+- ⚡ Curiosidade: **Tenho muita facilidade em quakquer coisa que envolve tecnologia**
 
 ---
 
@@ -20,12 +20,12 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radial" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radial" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Augusto-Dev-Stack&show_icons=true&theme=radial" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Dev-Stack&layout=compact&theme=radial" />
 </p>
 
 ---
 
 ### 📬 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/matheus-augusto-prado-ab3b0440a/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-prado-ab3b0440a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Email:xoxbox69@gmail.com)
