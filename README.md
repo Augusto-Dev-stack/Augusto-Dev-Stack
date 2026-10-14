@@ -19,9 +19,10 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Augusto-Dev-Stack&theme=radial)
----
+<p align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Augusto-Dev-Stack&theme=radial" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Dev-Stack&theme=radial&layout=compact" />
+</p>
 
 ### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-prado-ab3b0440a/)
